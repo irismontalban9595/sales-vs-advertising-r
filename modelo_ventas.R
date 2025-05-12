@@ -1,5 +1,5 @@
 ###########################################################
-# 🚀 Análisis predictivo de ventas usando R
+# Análisis predictivo de ventas usando R
 # Objetivo: Predecir las ventas según inversión en TV, Radio,
 # Redes Sociales y tipo de Influencer con regresión lineal múltiple
 ###########################################################
